@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+.al-dia {
+  background-color: #c8e6c9; /* verde */
+}
+
+.proxima {
+  background-color: #fff9c4; /* amarillo */
+}
+
+.atrasada {
+  background-color: #ffcdd2; /* rojo */
+}
